@@ -20,7 +20,6 @@ public class SkinTone : ClickableObject
         }
 
 
-
         base.OnClick();
     }
 
